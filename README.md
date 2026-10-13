@@ -1,6 +1,6 @@
 Text added on conflict1.
 
-# Bash Assignment
+Bash Assignment
 
 Text added on conflict2.
 
