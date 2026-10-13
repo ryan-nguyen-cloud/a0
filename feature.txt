@@ -1,1 +1,2 @@
+text added on conflict1
 This is my new feature.
