@@ -14,3 +14,4 @@
   354  git push
   355  touch no-commit.txt
   356  git status
+echo "Hello Bash!"
