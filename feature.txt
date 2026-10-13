@@ -1,2 +1,3 @@
-text added on conflict1
+Text added on conflict1
+Text added on conflict2
 This is my new feature.
