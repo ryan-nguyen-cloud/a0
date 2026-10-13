@@ -1,0 +1,16 @@
+  341  git commit -m "Make changes on conflict1"
+  342  git push -u origin conflict1
+  343  git switch main
+  344  git switch -c conflict2
+  345  git add feature.txt README.md
+  346  git commit -m "Make changes on conflict2"
+  347  git push -u origin conflict2
+  348  git switch main
+  349  git pull origin main
+  350  touch .gitignore
+  351  code .
+  352  git add .gitignore
+  353  git commit -m "Add gitignore"
+  354  git push
+  355  touch no-commit.txt
+  356  git status
